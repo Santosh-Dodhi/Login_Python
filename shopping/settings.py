@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-7)@)w4ik2=c#%n=impa&9+(e6q8w+%c_&(27_m@t2ajj497eaw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shoop-smi.onrender.com']
 
 
 # Application definition
